@@ -1,7 +1,7 @@
 # engs103_NetworkModelComponent
 # Author: Nikoleta Chantzi
 
-## Run TSP.py to 
+### Run TSP.py to 
   1. get exact and heuristic solution for shortest roundtrip path
   2. viualize network solutions provided in .m file
 
