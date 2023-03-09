@@ -8,5 +8,6 @@
 ### Run networkProblem.m to 
   1. get MST for selected European destinations 
   2. get shortest path between one starting point to all feasible destinations in Europe. Change starting point startingPoint to adjust it to the city of interest
-  Cancel changes
-  Enjoy!
+
+
+Enjoy!
